@@ -4,7 +4,7 @@ High Way Driving lab for APCS
 Author Tad Pierski
 Start date 11/14/22
 
-End date
+End date 11/16/22
 
 provides user with a terminal application interface to 
 inform of the number of rest stops with varying numbers 
