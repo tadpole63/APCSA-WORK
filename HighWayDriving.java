@@ -1,3 +1,4 @@
+import Java.util.*;
 /*
 High Way Driving lab for APCS
 
@@ -54,6 +55,8 @@ public class HighWayDriving{
   } 
 }*/
 public class CalcMPG{
+  Random choice = new.Random();
+  private int cumulMiles;
   private double cumulmiles(){
-    
+    cumulMiles = choice
 }
