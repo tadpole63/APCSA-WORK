@@ -13,7 +13,7 @@ User enters name of the interstate they are driving on
 as well as the number of miles they are driving.
 App calculates the number of rest stops they will cross,
 and displays data about each rest stop.
-*/
+
 
 import java.util.*;
 import java.text.DecimalFormat;
