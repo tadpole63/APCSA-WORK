@@ -36,7 +36,7 @@ public class HighWayDriving{
     int test = ttlMiles / DISTBETWEEN;
 
     System.out.println(test);
-*/
+
 //    int stopName = choice.nextInt(ttlMiles + 1);
 
     int ttlStops = ttlMiles / DISTBETWEEN;
@@ -51,5 +51,9 @@ public class HighWayDriving{
     
 
     
-  }
+  } 
+}*/
+public class CalcMPG{
+  private double cumulmiles(){
+    
 }
